@@ -12,7 +12,7 @@ padding:0;
    }
 @media screen and (min-width:641px)and(max-width:980px){
 body{
-background-image: url(夜桜２.png);
+background-image: url(css/夜桜２.png);
 background-color:lightgrey;
 margin:5px;
            }
