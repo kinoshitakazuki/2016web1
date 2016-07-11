@@ -5,19 +5,17 @@ margin:0;
 padding:0;
 
 }
-@media screen and(max-widht:640px){
+@media screen and (max-widht:640px){
   body{
     background-color:red;
     }
-    }
+   }
 @media screen and (min-width:641px)and(max-width:980px){
 body{
 background-image: url(夜桜２.png);
 background-color:lightgrey;
 margin:5px;
-}
-
-  
+           }
 }
 #text-shadow{
   padding:0 40px;
