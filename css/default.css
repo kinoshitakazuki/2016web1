@@ -11,7 +11,9 @@ background-color:lightgrey;
 margin:5px;
 }
 }
-@media screen and (min-width:641px)
+@media screen and (min-width:641px)and(max-width:980px){
+  
+}
 body{
   background-color:blue;
 }
