@@ -15,7 +15,7 @@ padding:0;
 body{
 background-image: url(夜桜２.png);
 
-background-color:lightgrey;
+background-repeat:no-repeat,no-repeat;
 margin:5px;
            }
 }
