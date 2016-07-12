@@ -33,9 +33,9 @@ body{
 
 
 
-.neon {color:red;
-       text-shadow:0px 0px 20px;
-                   0px 0px 28px deeppink,
-                   0px 0px 28px deeppink,
-                   0px 0px 28px deeppink,
-                   0px 0px 28px deeppink;}
+.neon {color:white;
+       text-shadow:         0px 0px 20px white;
+                            0px 0px 28px deeppink,
+                            0px 0px 28px deeppink,
+                            0px 0px 28px deeppink,
+                            0px 0px 28px deeppink;}
