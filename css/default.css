@@ -39,7 +39,10 @@ body{
                             0px 0px 28px deeppink,
                             0px 0px 28px deeppink,
                             0px 0px 28px deeppink;}
-  
+   .bebel{color violet;
+        text shadow:-1px -1px 0px white,
+                     1px 1px 0px white;}
+        
   
   #ingredient{
     border:2px solid lightcoral;
@@ -51,7 +54,4 @@ body{
     width:500px;
     text-align:center;
   }
-  .bebel{color violet;
-        text shadow:-1px -1px 0px white,
-                     1px 1px 0px white;}
-        
+  
