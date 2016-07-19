@@ -41,14 +41,14 @@ body{
                             0px 0px 28px deeppink;}
   
   
-  #ingredinet{
+  {
     border:2px solid lightcoral;
   }
   th,td{
     border:2px solid lightcoral;
   background-color:skyblue;
     pdding:10px;
-    width:100px;
+    width:110px;
     text-align:center;
   }
   .bebel{color violet;
