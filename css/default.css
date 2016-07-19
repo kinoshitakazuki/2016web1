@@ -39,3 +39,11 @@ body{
                             0px 0px 28px deeppink,
                             0px 0px 28px deeppink,
                             0px 0px 28px deeppink;}
+  
+  
+  #ingredinet{
+    border:2px solid lightcoral;
+  }
+  th,td{
+    border:2px solid lightcoral;
+  }
