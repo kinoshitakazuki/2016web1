@@ -51,4 +51,7 @@ body{
     width:100px;
     text-align:center;
   }
-  .bebel{color 
+  .bebel{color violet;
+        text shadow:-1px -1px 0px white,
+                     1px 1px 0px white;}
+        
